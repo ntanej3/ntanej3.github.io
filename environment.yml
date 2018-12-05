@@ -9,6 +9,9 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
+    - bokeh
+    - bqplot
+    - ipywidgets
 
 
 
