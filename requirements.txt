@@ -1,3 +1,3 @@
-matplotlib
-pandas
-ipywidgets
+matplotlib==2.0.2
+numpy==1.13.1
+pandas==0.20.3
