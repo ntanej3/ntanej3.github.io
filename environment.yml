@@ -1,12 +1,15 @@
-name: rise-environment
+name: example-environment
 channels:
-  - damianavila82
   - conda-forge
 dependencies:
   - python
   - numpy
-  - matplotlib
-  - pandas
-  - bokeh
-  - bqplot
-  - rise
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
+
+
+
+
