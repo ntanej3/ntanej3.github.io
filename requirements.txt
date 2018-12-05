@@ -1,3 +1,3 @@
 matplotlib
 pandas
-ipywidgets
+git+https://github.com/ipython/ipywidgets.git
